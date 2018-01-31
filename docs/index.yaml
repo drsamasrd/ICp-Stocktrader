@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  notificationchart:
+  - apiVersion: v1
+    created: 2018-01-31T01:16:46.217410654-08:00
+    description: A Helm chart for Kubernetes
+    digest: 8f136f012274eb3b95cc6111656fe7d330a0c5ab879f6b219d5256349a19d813
+    name: notificationchart
+    urls:
+    - https://drsamasrd.github.io/ICp-Stocktrader/notificationchart-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-01-31T01:16:46.21630695-08:00
